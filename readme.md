@@ -1,0 +1,1 @@
+A trial purpose plugin to discourage malicious bots.
